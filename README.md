@@ -4,141 +4,194 @@
 </div>
 
 <h1 align="center">Mohamed Mahmoud Al-Jarhi</h1>
-
-<h3 align="center">Front-End Developer passionate about transforming designs into seamless and interactive user experiences</h3>
-
+<br>
+<h3> About Me</h3>
+<h3 align="center">User-friendly UX designer. Recent graduate eager to apply their academic
+knowledge and personal projects to real-world challenges. Quick learner
+with a solid foundation in web technologies</h3>
 <br/>
+<br/>
+
+
 
 <div align="center">
-
-<a href="[Link to your personal website, if applicable]">
-
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-
-</a>
-
-<a href="[Link to your LinkedIn profile]">
-
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
-</a>
-
-<a href="mailto:[your email address]">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-
-</a>
-
-<a href="[Link to your X (formerly Twitter) account, if applicable]">
-
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-
-</a>
-</div>
-
-<br/>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## 🙋‍♂️ About Me
-
-* 🔭 I am currently working on the **[[Current Project Name]](Project Link)** project.
-
-* 🌱 I am currently learning **[a new technology or library, e.g., Next.js 14 or Three.js]**.
-
-* 👯 I am looking for collaborations on **open source** and **web application** projects.
-
-* 🥅 My goals for 2024: **To actively contribute to open source projects and launch my first proprietary component library**.
-
-* ⚡ Fun fact about me: **[Hobby or personal fact, e.g., former chess player or I drink more than 3 cups of coffee a day! ☕]**
-
-* 📫 Contact me via email: **[Your email address]**
-
-
-<br/>
-
-## 🛠️ Programming Languages ​​and Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,figma,git,github,vscode" /><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="50" height="50" />
+  <h2>📜 Professional Journey & Experience</h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="40" height="40" />
 </div>
 
 <br/>
 
-## 📊 My GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="[Your Username]'s GitHub Stats" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-username]&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="[your-username]'s Most Used Languages" height="150"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight&hide_border=true" alt="[your-username]'s Streak Stats" height="150"/>
+  <!-- Timeline Start -->
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" alt="Timeline Animation" />
 </div>
 
 <br/>
 
-## 🔥 Top Projects
-
+<!-- Education Card -->
 <div align="center">
-
-<a href="[Project Link 1]">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=[Your Username]&repo=[Project-Repo-Name-1]&theme=tokyonight&hide_border=true" />
-
-</a>
-
-<a href="[Project Link 2]">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=[Your Username]&repo=[Project-Repo-Name-2]&theme=tokyonight&hide_border=true" />
-
-</a>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" />
+          <h3>🎓 Academic Background</h3>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Flag" width="25" height="25" />
+        </div>
+        
+        <br/>
+        
+        <div style="border-left: 4px solid #00ffaa; padding-left: 20px; margin: 20px;">
+          <p>
+            <strong>🎯 Higher Institute of Science and Computer Science</strong><br/>
+            <img src="https://img.shields.io/badge/Bachelor's%20Degree-2022--2024-00ffaa?style=flat-square&labelColor=000000" alt="Bachelor's Degree"/>
+          </p>
+          
+          <p>
+            <strong>💻 Front-End Development Diploma</strong><br/>
+            <img src="https://img.shields.io/badge/FUI%2FUI%2FUX%20Design-2024--2025-ff69b4?style=flat-square&labelColor=000000" alt="FUI/UI/UX Diploma"/>
+          </p>
+        </div>
+      </td>
+      
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" />
+          <h3>💡 Professional Profile</h3>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Biceps" width="25" height="25" />
+        </div>
+        
+        <br/>
+        
+        <div style="border-left: 4px solid #ff69b4; padding-left: 20px; margin: 20px;">
+          <ul style="list-style-type: none; padding: 0;">
+            <li>🧠 <strong>Smart Sciences Background</strong> - Understanding market & user needs</li>
+            <li>🎨 <strong>UI/UX Specialist</strong> - Transforming ideas into seamless experiences</li>
+            <li>⚡ <strong>Clean Code Developer</strong> - Writing maintainable & versatile code</li>
+            <li>🚀 <strong>Latest Tools Expert</strong> - Using cutting-edge front-end technologies</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-## 📌 My Featured Projects in Detail
-
-| Project | Description | Technologies Used |
-
-| :--- | :--- | :--- |
-
-| **[Project Name 1]** | [Brief description of the project, the challenges encountered, and how they were solved. Example: An interactive learning platform that allows users to...] | `React` `Redux` `Tailwind CSS` `Node.js` |
-
-| **[Project Name 2]** | [Brief description of the project. Example: A personal website with an attractive user interface and a smooth browsing experience with theme customization.] | `Next.js` `Framer Motion` `SCSS` |
-
-| **[Project Name 3]** | [Brief description of the project. Example: A fully interactive daily task tracking application with a simplified user interface.] | `JavaScript` `HTML5` `CSS3` `LocalStorage` |
-
-
-<br/>
-
-## 📫 Contact Me
-
-<p align="center">
-
-<a href="[https://www.linkedin.com/nhome]"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-
-<a href="[https://www.facebook.com/m.AzZef.m]"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="X"/></a>
-
-<a href="[mohamedalgarhy@outlook.com]"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=[Your Username]&label=Profile%20views&color=0e75b6&style=flat" alt="[Your Username]" />
-</p>
-
------
-
+<!-- Skills & Technologies -->
 <div align="center">
+  <h3>🛠️ Technologies & Tools I Master</h3>
+  <br/>
+  
+  <!-- Frontend Technologies -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" />
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=000000" />
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white&labelColor=000000" />
+</div>
 
-<i>Let's build something great together! 🚀</i>
+<br/>
+<br/>
+
+<!-- Design Tools -->
+<div align="center">
+  <h3>🎨 Design & Prototyping Tools</h3>
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=000000" />
+</div>
+
+<br/>
+<br/>
+
+<!-- Career Objective -->
+<div align="center">
+  <table style="width: 90%; background: linear-gradient(145deg, #000000, #1a1a1a); border-radius: 20px; padding: 20px;">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="60" height="60" />
+        <h3 style="color: #00ffaa;">🎯 Career Objective</h3>
+        <p style="font-size: 16px; line-height: 1.6; max-width: 600px;">
+          <strong>Eager to join a creative team at Dynamic Technology</strong> to further develop my skills 
+          and contribute to building innovative digital projects. Passionate about creating 
+          <span style="color: #ff69b4;">seamless and engaging user experiences</span> that make a difference.
+        </p>
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=Available+for+exciting+opportunities!;Let's+build+something+amazing+together!;Front-End+Developer+ready+to+innovate!" alt="Typing Animation" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<br/>
+
+<!-- Achievements -->
+<div align="center">
+  <h3>🏆 Key Achievements</h3>
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="40" height="40" />
+        <br/>
+        <strong>🎯 Market Understanding</strong>
+        <br/>
+        <span style="font-size: 14px;">Translating user needs into code</span>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="40" height="40" />
+        <br/>
+        <strong>✨ UX Focus</strong>
+        <br/>
+        <span style="font-size: 14px;">Creating engaging experiences</span>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="40" height="40" />
+        <br/>
+        <strong>⚡ Clean Code</strong>
+        <br/>
+        <span style="font-size: 14px;">Developing versatile solutions</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<br/>
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/snow.gif" alt="snow" height="30" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/sol.gif" alt="sol" height="40" />
+</div>
 
 <br/>
 
-<sub>Last updated: 2026</sub>
+<!-- Contact -->
+<div align="center">
+  <h4>📫 Let's Connect & Create Amazing Experiences Together!</h4>
+  <p>
+    <a href="mailto:mohamedalgarhy@outlook.com">
+      <img src="https://img.shields.io/badge/Email%20Me-mohamedalgarhy%40outlook.com-00ffaa?style=social&logo=microsoft-outlook" alt="Email"/>
+    </a>
+    <br/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" />
+  </p>
 </div>
- اجعله اكثر احترافيه من ذالك مع تحركات  ثلاثيت الابعاد
