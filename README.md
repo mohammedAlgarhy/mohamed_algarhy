@@ -5,26 +5,11 @@
 
 <h1 align="center">Mohamed Mahmoud Al-Jarhi</h1>
 <br>
-<h3> About Me</h3>
+<h3> About Me :</h3>
 <h3 align="center">User-friendly UX designer. Recent graduate eager to apply their academic
 knowledge and personal projects to real-world challenges. Quick learner
 with a solid foundation in web technologies</h3>
 <br/>
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="50" height="50" />
-  <h2>📜 Professional Journey & Experience</h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="40" height="40" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Timeline Start -->
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150" alt="Timeline Animation" />
-</div>
-
 <br/>
 
 <!-- Education Card -->
@@ -145,13 +130,4 @@ with a solid foundation in web technologies</h3>
 <br/>
 
 <!-- Contact -->
-<div align="center">
-  <h4>📫 Let's Connect & Create Amazing Experiences Together!</h4>
-  <p>
-    <a href="mailto:mohamedalgarhy@outlook.com">
-      <img src="https://img.shields.io/badge/Email%20Me-mohamedalgarhy%40outlook.com-00ffaa?style=social&logo=microsoft-outlook" alt="Email"/>
-    </a>
-    <br/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" />
-  </p>
 </div>
