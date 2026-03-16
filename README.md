@@ -5,7 +5,7 @@
 
 <h1 align="center">Mohamed Mahmoud Algarhy</h1>
 
-<h3 align="center">Front-End Developer from [Your City, Your Country], passionate about transforming designs into seamless and interactive user experiences.</h3>
+<h3 align="center">Front-End Developer passionate about transforming designs into seamless and interactive user experiences.</h3>
 
 <br/>
 
