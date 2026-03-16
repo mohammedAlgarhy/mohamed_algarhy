@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;React+Specialist" alt="Typing SVG" />
 </div>
 
-<h1 align="center , black">Mohamed Mahmoud Algarhy</h1>
+<h1 align="center">Mohamed Mahmoud Algarhy</h1>
 
-<h3 align="center">I'm a Front-End Developer from [Your City, Your Country], passionate about transforming designs into seamless and interactive user experiences.</h3>
+<h3 align="center">Front-End Developer from [Your City, Your Country], passionate about transforming designs into seamless and interactive user experiences.</h3>
 
 <br/>
 
