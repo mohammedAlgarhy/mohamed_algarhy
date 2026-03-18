@@ -1,5 +1,8 @@
 # 💫 About Me:
-user and face front end developer ui / ux. Recent graduate eager to apply their academic<br>knowledge and personal projects to real-world challenges. Quick learner<br>with a solid foundation in web technologies.
+Front-End Developer & UI/UX Designer.
+Recent graduate passionate about building user-friendly and responsive web applications.
+Skilled in modern web technologies with hands-on experience through academic and personal projects.
+Fast learner with strong problem-solving abilities.
 
 
 ## 🌐 Socials:
